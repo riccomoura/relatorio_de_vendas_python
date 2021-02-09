@@ -1,4 +1,4 @@
-# relatorio_de_vendas_python
+# Relatório de Vendas - Python
 Projeto em Python realizado no curso da Hashtag.
 
 Desafio de criação e envio de relatórios de vendas para franquia de roupas em diversos shopping centers.
